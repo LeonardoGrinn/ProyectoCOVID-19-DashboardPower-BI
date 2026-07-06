@@ -1,0 +1,4 @@
+Liga del dashboard desarrollado en Power BI Service:
+https://app.powerbi.com/groups/me/reports/covid19-global-dashboard-lug/ReportSection
+
+Nota: URL incluida como referencia de publicación del entregable académico.
